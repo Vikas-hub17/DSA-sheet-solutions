@@ -1,0 +1,31 @@
+// #include <iostream>
+// using namespace std;
+
+// void Min_Max(int n, int arr[]){
+//     int MAX = -99999;
+//     int MIN = 1000000;
+//     for(int i=0;i<n;i++){
+//         if(arr[i]>MAX){
+//             MAX = arr[i];
+//         }
+//         else if(arr[i]<MIN){
+//             MIN = arr[i];
+//         }
+//         else{
+//             cout<<MAX<<MIN;
+//         }
+//     }
+//     cout<<"Minimum element is : " << MIN <<endl;
+//     cout<<"Maximum element is : " << MAX <<endl;
+// }
+
+
+// int main(){
+//       int n;
+//       cin>>n;
+//       int arr[n];
+//       for(int i=0;i<n;i++){
+//         cin>>arr[i];
+//       }
+//       Min_Max(n,arr);
+// }
